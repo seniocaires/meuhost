@@ -1,2 +1,2 @@
-FROM seniocaires/php_dev
+FROM php:7.0-apache
 ADD app /var/www/html
